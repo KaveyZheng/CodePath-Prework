@@ -3,8 +3,8 @@
 ### App Description
 - "Change Text Color" button will change the color of the label text to a random color
 - "Change Background Color" button will change the background to a random color
-- "Change Text String" button will update label text with any user input inside the "Change Text String" text field, otherwise it will display default text
 - Tapping the background will reset all views to default
+- "Change Text String" button will update label text with any user input inside the "Change Text String" text field, otherwise it will display default text
 
 ### App Walk-though
 <img src="https://i.imgur.com/LPumwwd.gif" width=200><br>
